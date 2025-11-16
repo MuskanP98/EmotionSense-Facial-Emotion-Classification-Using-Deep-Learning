@@ -1,4 +1,4 @@
-* 🌟 EmotionSense: Facial Emotion Classification Using Deep Learning
+# 🌟 EmotionSense: Facial Emotion Classification Using Deep Learning
 
 EmotionSense is a lightweight deep learning solution that classifies facial expressions into **Happy** or **Sad** using a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
 
@@ -44,4 +44,3 @@ The final model achieves strong performance with **94% accuracy, 100% precision,
 ## 👩‍💻 **Author**
 **Muskan Patel**  
 Aspiring Data Analyst & AI Enthusiast  
-**
