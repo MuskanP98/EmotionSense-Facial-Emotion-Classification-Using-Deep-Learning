@@ -1,0 +1,2 @@
+# EmotionSense-Facial-Emotion-Classification-Using-Deep-Learning
+EmotionSense is a complete deep learning pipeline for binary emotion classification (Happy vs Sad). It includes dataset preprocessing, a custom CNN model, training with validation, performance visualization, evaluation metrics, and real-image inference. The project demonstrates core Computer Vision concepts using TensorFlow, Keras, and OpenCV.
