@@ -2,6 +2,8 @@
 
 EmotionSense is a lightweight deep learning solution that classifies facial expressions into **Happy** or **Sad** using a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
 
+Link to Google Drive for Whole Project: https://drive.google.com/drive/folders/17P_dw5Mw-ADkJCvCUBC6Zg9l4yauYbDO?usp=share_link
+
 This project demonstrates core Computer Vision concepts including:
 - Image preprocessing  
 - CNN model development  
